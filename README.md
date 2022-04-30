@@ -1,4 +1,4 @@
-# 机场推荐|SS/SSR/V2Ray/Trojan/Clash/winXray/Shadowrocket/Brook
+# 机场推荐
 
 ## 前言
 
