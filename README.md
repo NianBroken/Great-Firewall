@@ -10,7 +10,7 @@
 
 ## 推荐
 
-### Krices：
+- **Krices**：
 
 - [**https://rebrand.ly/krices**](https://rebrand.ly/krices)
 
@@ -31,7 +31,7 @@
 
 ------
 
-### **茶猫**：
+- **茶猫**：
 
 - **[https://rebrand.ly/Teacat](https://rebrand.ly/Teacat)**
 
