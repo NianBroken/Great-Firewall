@@ -35,9 +35,9 @@
 ------
 
 - **Krices**：[**https://rebrand.ly/krices**](https://rebrand.ly/krices)
-- 
+
 - 机场**没有等机制** 按时计费 **最低3.99元/月** 解锁多个地方的流媒体 **IEPL 线路**
-- 
+
 - 不限速 不限制设备个数
 
 ### 价格
