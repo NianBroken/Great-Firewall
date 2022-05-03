@@ -36,9 +36,7 @@
 
 - **Krices**：[**https://rebrand.ly/krices**](https://rebrand.ly/krices)
 - 按时计费 **最低4元/月**
-- 不限速 不限制设备个数 含有优质的使用教程
-
-
+- 不限速 不限制设备个数
 
 ### 价格
 
