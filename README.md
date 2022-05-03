@@ -35,8 +35,10 @@
 ------
 
 - **Krices**：[**https://rebrand.ly/krices**](https://rebrand.ly/krices)
-- 按时计费 **最低4元/月**
+- 按时计费 **最低4元/月** **解锁多个地方的流媒体** **IEPL 线路**
 - 不限速 不限制设备个数
+
+
 
 ### 价格
 
