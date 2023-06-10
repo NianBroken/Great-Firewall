@@ -61,21 +61,19 @@
 			}
 		</style>
 		<script>
-			document.addEventListener("DOMContentLoaded", function () {
+			window.onload = function () {
 				// 检查浏览器是否支持跳转
 				if (window.location && window.location.href) {
 					// 检查是否在https协议下
 					if (window.location.protocol !== "https:") {
-						// 使用setTimeout函数延迟2秒后进行跳转
-						setTimeout(function () {
-							window.location.href = "https://eugnaa.eu-gov.eu.org/";
-						}, 2000);
+						// 使用HTTPS协议进行跳转
+						window.location.href = "https://eugnaa.eu-gov.eu.org/";
 					}
 				} else {
 					// 在不支持跳转的浏览器中弹出警告框
-					alert("无法跳转到指定网址");
+					alert("无法跳转到指定网址。");
 				}
-			});
+			};
 		</script>
 	</head>
 	<body>
