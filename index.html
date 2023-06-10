@@ -2,6 +2,10 @@
 <html>
 	<head>
 		<style>
+			a {
+				text-decoration: none;
+			}
+            
 			body {
 				background-color: #f5f5f5;
 				font-family: Arial, sans-serif;
@@ -60,28 +64,30 @@
 				margin-top: 20px;
 			}
 		</style>
+	</head>
+	<body>
 		<script>
 			window.onload = function () {
 				// 检查浏览器是否支持跳转
 				if (window.location && window.location.href) {
 					// 检查是否在https协议下
 					if (window.location.protocol !== "https:") {
-						// 使用HTTPS协议进行跳转
-						window.location.href = "https://eugnaa.eu-gov.eu.org/";
+						// 使用setTimeout函数延迟2秒后进行跳转
+						setTimeout(function () {
+							window.location.href = "https://eugnaa.eu-gov.eu.org/";
+						}, 2000);
 					}
 				} else {
 					// 在不支持跳转的浏览器中弹出警告框
-					alert("无法跳转到指定网址。");
+					alert("无法跳转到指定网址");
 				}
 			};
 		</script>
-	</head>
-	<body>
 		<div class="container">
 			<h1>网站已迁移</h1>
 			<p>正在跳转至新的网站</p>
 			<div class="loader"></div>
-			<div class="contact">请您耐心等待</div>
+			<div class="contact">若无法自动跳转请点击<a href="https://eugnaa.eu-gov.eu.org/">“手动跳转”</a></div>
 		</div>
 	</body>
 </html>
