@@ -10,7 +10,7 @@
 
 - **Soul cloud**
 
-  - [**https://eugnaa.eu-gov.eu.org/?Soul-cloud**](https://eugnaa.eu-gov.eu.org/?Soul-cloud)
+  - [**https://eugnaa.eu-gov.eu.org?Soul-cloud**](https://eugnaa.eu-gov.eu.org?Soul-cloud)
 
   - IEPL企业级内网专线
 
@@ -29,7 +29,7 @@
 
 - **Dairy cows cloud**
 
-  - [**https://eugnaa.eu-gov.eu.org/?Dairy-cows-cloud**](https://eugnaa.eu-gov.eu.org/?Dairy-cows-cloud)
+  - [**https://eugnaa.eu-gov.eu.org?Dairy-cows-cloud**](https://eugnaa.eu-gov.eu.org?Dairy-cows-cloud)
 
   - 独家流媒体解锁技术
 
@@ -55,7 +55,7 @@
 
 - **茶猫**
 
-  - [**https://rebrand.ly/Teacat**](https://rebrand.ly/Teacat)
+  - [**https://eugnaa.eu-gov.eu.org?Teacat**](https://eugnaa.eu-gov.eu.org?Teacat)
 
   - IEPL企业级内网专线
 
@@ -77,7 +77,7 @@
 
 - **Krices**
 
-  - **[https://eugnaa.eu-gov.eu.org/?Krices](https://eugnaa.eu-gov.eu.org/?Krices)**
+  - [**https://eugnaa.eu-gov.eu.org?Krices**](https://eugnaa.eu-gov.eu.org?Krices)
 
   - 国内高速中继
 
@@ -99,7 +99,7 @@
 
 - **Nocloud**
 
-  - [**https://eugnaa.eu-gov.eu.org/zh/?Nocloud**](https://eugnaa.eu-gov.eu.org/zh/?Nocloud)
+  - [**https://eugnaa.eu-gov.eu.org?Nocloud**](https://eugnaa.eu-gov.eu.org?Nocloud)
 
   - IEPL/CN2跨境专线出国
 
