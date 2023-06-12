@@ -8,6 +8,26 @@
 
 ## 推荐
 
+- **JiKe**
+
+  - [**https://eugnaa.eu-gov.eu.org/?JiKe**](https://eugnaa.eu-gov.eu.org/?JiKe)
+
+  - 用户可以免费获得1GB流量
+
+  - 在传输过程中使用最强的加密方式
+
+  - 解锁流媒体 观赏和聆听优质的内容
+
+  **价格**
+
+- | 流量（单位：Gb） | 价格（单位：人民币/元/月） |
+  | ---------------- | -------------------------- |
+  | 300              | 30.00                      |
+  | 600              | 50.00                      |
+  | 1500             | 100.00                     |
+
+------
+
 - **Soul cloud**
 
   - [**https://eugnaa.eu-gov.eu.org?Soul-cloud**](https://eugnaa.eu-gov.eu.org?Soul-cloud)
