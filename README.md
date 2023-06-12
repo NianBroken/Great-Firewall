@@ -10,7 +10,7 @@
 
 - **JiKe**
 
-  - [**https://eugnaa.eu-gov.eu.org/?JiKe**](https://eugnaa.eu-gov.eu.org/?JiKe)
+  - [**https://eugnaa.eu-gov.eu.org?JiKe**](https://eugnaa.eu-gov.eu.org?JiKe)
 
   - 用户可以免费获得1GB流量
 
