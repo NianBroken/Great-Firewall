@@ -1,19 +1,18 @@
-// redirect.js
-
-// 定义跳转规则对象
-var redirectRules = {
-	"https://nianbroken.github.io/Great-Firewall/test1": "https://test1.com",
-	"https://nianbroken.github.io/Great-Firewall/test2": "https://test2.com",
-	// 添加其他测试用例的规则
-	"https://nianbroken.github.io/Great-Firewall/test6": "https://test6.com",
+// 配置信息
+var redirectConfig = {
+	"/Great-Firewall/test1/": "https://test1.com",
+	"/Great-Firewall/test2/": "https://test2.com",
+	// 添加更多的路径和对应的目标URL
 };
 
-window.onload = function () {
-	var currentURL = window.location.href;
-	var redirectURL = redirectRules[currentURL] || currentURL;
+// 获取当前访问的URL
+var currentURL = window.location.pathname;
 
-	if (redirectURL !== currentURL) {
-		// 执行跳转
-		window.open(redirectURL, "_blank");
+// 检查是否有匹配的路径，并执行跳转
+for (var path in redirectConfig) {
+	if (currentURL.includes(path)) {
+		var targetURL = redirectConfig[path];
+		window.open(targetURL, "_blank");
+		break; // 找到匹配的路径后停止检查
 	}
-};
+}
