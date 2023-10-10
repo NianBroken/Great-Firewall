@@ -5,8 +5,8 @@ var redirectConfig = {
 	// 添加更多的路径和对应的目标URL
 };
 
-// 获取当前访问的URL
-var currentURL = window.location.pathname;
+// 获取当前完整的URL
+var currentURL = window.location.href;
 
 // 检查是否有匹配的路径，并执行跳转
 for (var path in redirectConfig) {
