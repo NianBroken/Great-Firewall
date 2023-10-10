@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      redirect_from: "/Great-Firewall/test1/": "https://test1.com"
