@@ -10,7 +10,7 @@
 
 - **Soul cloud**
 
-  - [**https://eugnaa.eu-gov.eu.org?Soul-cloud**](https://eugnaa.eu-gov.eu.org?Soul-cloud)
+  - [**前往Soul cloud**](https://www.linghun5.com/#/register?code=NianBroken)
 
   - IEPL企业级内网专线
 
