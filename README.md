@@ -6,7 +6,7 @@
 
 - **墙外非法外** **谨言慎行** **好好学习** **天天向上**
 
-- 若您有更好的机场 可以向[**@NianBroken**](https://t.me/Nianbroken)进行投稿
+- 向[**@NianBroken**](https://t.me/Nianbroken)投稿
 
 ------
 
