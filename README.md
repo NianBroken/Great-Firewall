@@ -8,9 +8,9 @@
 
 ## 推荐
 
-- **Soul cloud**
+- **Soul Cloud**
 
-  - [**前往Soul cloud**](https://www.linghun5.com/#/register?code=NianBroken)
+  - [**前往SoulCloud**](https://www.linghun5.com/#/register?code=NianBroken)
 
   - IEPL企业级内网专线
 
@@ -27,73 +27,25 @@
 
 ------
 
-- **Dairy cows cloud**
+- **Teacat**
 
-  - [**https://eugnaa.eu-gov.eu.org?Dairy-cows-cloud**](https://eugnaa.eu-gov.eu.org?Dairy-cows-cloud)
-
-  - 独家流媒体解锁技术
-
-  - 不限制峰值速率
-
-  - 没有设备限制
-
-  - 高SLA可用性保障
-
-  - BGP中转隧道线路
-
-  **价格**
-
-- | 流量（单位：Gb） | 价格（单位：人民币/元/月） |
-  | ---------------- | -------------------------- |
-  | 100              | 5.00                       |
-  | 500              | 10.00                      |
-  | 800              | 18.80                      |
-  | 1600             | 37.60                      |
-  | 2000             | 39.90                      |
-
-------
-
-- **茶猫**
-
-  - [**https://eugnaa.eu-gov.eu.org?Teacat**](https://eugnaa.eu-gov.eu.org?Teacat)
+  - [**前往Teacat**](https://teacat2.com/#/register?code=NianBroken)
 
   - IEPL企业级内网专线
 
   - 不限制个人设备
 
-  - 流媒体节点
-
-  **价格**
-
-- | 流量（单位：Gb） | 价格（单位：人民币/元）   |
-  | ---------------- | -----------------------|
-  | 100              | 14.80                  |
-  | 200              | 23.00                  |
-  | 300              | 33.00                  |
-  | 500              | 50.00                  |
-  | 1000             | 90.00                  |
-
-------
-
-- **Krices**
-
-  - [**https://eugnaa.eu-gov.eu.org?Krices**](https://eugnaa.eu-gov.eu.org?Krices)
-
-  - 国内高速中继
-
-  - 无网络速度限制
-
-  - 快速客服响应
-
-  - 最多允许无限台设备在线
+  - 解锁流媒体
 
   **价格**
 
 - | 流量（单位：Gb） | 价格（单位：人民币/元/月） |
-   | ---------------- | -------------------------- |
-   | 120              | 9.95                       |
-   | 300              | 25.95                      |
-   | 500              | 39.95                      |
+  | ---------------- | -------------------------- |
+  | 100              | 14.80                      |
+  | 200              | 23.00                      |
+  | 300              | 33.00                      |
+  | 500              | 50.00                      |
+  | 1000             | 90.00                      |
 
 ------
 
