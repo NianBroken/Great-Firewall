@@ -109,7 +109,7 @@
 
 **按量计费：月末流量不清空 直至流量完全用完为止*
 
-- **Krices** [krices.com](https://www.krices.com/#/register?code=NianBroken)
+- **Krices**   （[krices.com](https://www.krices.com/#/register?code=NianBroken)）
 
   - [**前往Krices**](https://www.krices.com/#/register?code=NianBroken)
 
