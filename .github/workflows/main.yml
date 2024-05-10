@@ -1,8 +1,6 @@
 name: Delete All Issues
 
 on:
-  schedule:
-    - cron: '*/30 * * * *' # 每30分钟触发一次
   issues:
     types: [opened]
 
@@ -11,12 +9,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Delete All Issues
-      run: |
-        if [ "${{ github.event_name }}" = "issues" ]; then
-          # Delete all issues
-          curl -X DELETE -H "Authorization: token ${{ secrets.MY_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues"
-        fi
+      - name: Delete All Issues
+        run: |
+          TOKEN="${{ secrets.MY_TOKEN }}"
+          OWNER="${{ github.repository_owner }}"
+          REPO="${{ github.event.repository.name }}"
+
+          curl -X DELETE -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$REPO/issues/${{ github.event.issue.number }}"
