@@ -8,7 +8,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Delete GitHub Issue
-        run: |
-          curl -X DELETE \
-          -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
-          https://api.github.com/repos/NianBroken/Great-Firewall/issues/19
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const octokit = new (require('@octokit/rest'))();
+            octokit.authenticate({
+              type: 'token',
+              token: process.env.MY_TOKEN,
+            });
+            try {
+              await octokit.issues.delete({
+                owner: 'NianBroken',
+                repo: 'Great-Firewall',
+                issue_number: 19
+              });
+              console.log('Issue deleted successfully');
+            } catch (error) {
+              console.error('Error deleting issue:', error);
+              process.exit(1);
+            }
