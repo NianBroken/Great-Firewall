@@ -24,7 +24,7 @@ jobs:
         REPO_NAME=$(echo $GITHUB_REPOSITORY | cut -d'/' -f2)
 
         # Get list of issues
-        ISSUES=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/issues?state=all&per_page=100" | jq -r '.[] | .number')
+        ISSUES=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/issues?state=all&per_page=100" | jq -r '.[].number')
 
         # Delete each issue
         for issue in $ISSUES
@@ -33,4 +33,4 @@ jobs:
           curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/issues/$issue"
         done
       env:
-        GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
