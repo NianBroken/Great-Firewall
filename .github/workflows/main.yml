@@ -1,37 +1,22 @@
-name: Auto Delete Issues
+name: Delete All Issues
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # 每30分钟执行一次
+    - cron: '*/30 * * * *' # 每30分钟触发一次
   issues:
-    types: [opened] # 当有人发布一个issue时触发
+    types: [opened]
 
 jobs:
-  delete-issues:
+  delete_issues:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check if triggered by schedule or issue
-        id: check-trigger
-        uses: actions/github-script@v5
-        with:
-          script: |
-            if (github.event_name === 'schedule') {
-              console.log('Scheduled event');
-              return 'schedule';
-            } else if (github.event_name === 'issues' && github.context.payload.action === 'opened') {
-              console.log('Issue opened event');
-              return 'issue';
-            } else {
-              console.log('Unknown event');
-              return 'unknown';
-            }
+    - name: Checkout Repository
+      uses: actions/checkout@v2
 
-      - name: Delete Issues
-        if: steps.check-trigger.outputs == 'schedule' || steps.check-trigger.outputs == 'issue'
-        run: |
-          echo "Deleting all issues..."
-          # 使用 GitHub API 删除所有的 issues
-          curl -X DELETE \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/repos/${{ github.repository }}/issues"
+    - name: Delete All Issues
+      run: |
+        if [ "${{ github.event_name }}" = "issues" ]; then
+          # Delete all issues
+          curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues"
+        fi
