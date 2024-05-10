@@ -18,5 +18,5 @@ jobs:
       run: |
         if [ "${{ github.event_name }}" = "issues" ]; then
           # Delete all issues
-          curl -X DELETE -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues"
+          curl -X DELETE -H "Authorization: token ${{ secrets.MY_TOKEN }}" "https://api.github.com/repos/${{ github.repository }}/issues"
         fi
