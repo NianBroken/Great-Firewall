@@ -1,36 +1,14 @@
-name: Delete All Issues
+name: Delete GitHub Issue
 
 on:
-  issues:
-    types: [opened]
+  workflow_dispatch:
 
 jobs:
-  delete_issues:
+  delete_issue:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Delete all issues
-      run: |
-        #!/bin/bash
-
-        # Get GitHub token
-        GITHUB_TOKEN=$1
-
-        # Get repository owner and name
-        REPO_OWNER=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
-        REPO_NAME=$(echo $GITHUB_REPOSITORY | cut -d'/' -f2)
-
-        # Get list of issues
-        ISSUES=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/issues?state=all&per_page=100" | jq -r '.[].number')
-
-        # Delete each issue
-        for issue in $ISSUES
-        do
-          echo "Deleting issue $issue"
-          curl -X DELETE -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/issues/$issue"
-        done
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Delete GitHub Issue
+        run: |
+          curl -X DELETE \
+          -H "Authorization: token ${{ secrets.MY_TOKEN }}" \
+          https://api.github.com/repos/NianBroken/Great-Firewall/issues/19
