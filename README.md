@@ -14,7 +14,7 @@
 
 - ### **灵魂云**
 
-  - [**前往灵魂云**](https://www.linghun5.com/#/register?code=NianBroken)
+  - [**前往灵魂云**](https://2.linghun9.com/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
@@ -31,9 +31,30 @@
 
 ---
 
+- ### **Teacat**
+
+  - [**前往 Teacat**](https://2.teacat5.com/#/register?code=NianBroken)
+
+  - IEPL 企业级内网专线
+
+  - 不限制个人设备
+
+  - 解锁流媒体
+
+  **价格**
+
+- | 流量（单位：Gb） | 价格（单位：人民币/元/月） |
+  | ---------------- | -------------------------- |
+  | 50               | 12.80                      |
+  | 100              | 17.80                      |
+  | 200              | 29.80                      |
+  | 500              | 49.80                      |
+
+---
+
 - ### **八戒**
 
-  - [**前往八戒**](https://bajie.info/#/register?code=rxky9kTq)
+  - [**前往八戒**](https://bajie.xyz/#/register?code=rxky9kTq)
 
   - 不限制在线人数
 
@@ -99,7 +120,7 @@ _按量计费代表只要流量没用完就永不过期_
 
 - ### **魔戒**
 
-  - [**前往领航**](https://mojie.me/#/register?code=dEPfizmz)
+  - [**前往领航**](https://mojie.app/#/register?code=dEPfizmz)
 
   - 支持流媒体播放
 
@@ -122,30 +143,9 @@ _按量计费代表只要流量没用完就永不过期_
 
 ---
 
-- ### **Teacat**
-
-  - [**前往 Teacat**](https://teacat2.com/#/register?code=NianBroken)
-
-  - IEPL 企业级内网专线
-
-  - 不限制个人设备
-
-  - 解锁流媒体
-
-  **价格**
-
-- | 流量（单位：Gb） | 价格（单位：人民币/元/月） |
-  | ---------------- | -------------------------- |
-  | 50               | 12.80                      |
-  | 100              | 17.80                      |
-  | 200              | 29.80                      |
-  | 500              | 49.80                      |
-
----
-
 - ### **领航**
 
-  - [**前往领航**](https://www.lingh.cfd/#/register?code=GVfn7NeZ)
+  - [**前往领航**](https://lingh.cfd/#/register?code=GVfn7NeZ)
 
   - 万兆接入，不限速
 
