@@ -145,7 +145,7 @@ _按量计费代表只要流量没用完就永不过期_
 
 - ### **领航**
 
-  - [**前往领航**](https://lingh.cfd/#/register?code=GVfn7NeZ)
+  - [**前往领航**](https://lingh.cfd/#/register?code=sz6ymt1X)
 
   - 万兆接入，不限速
 
