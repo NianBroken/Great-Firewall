@@ -14,7 +14,7 @@
 
 - ### **灵魂云**
 
-  - [**前往灵魂云**](https://www.linghun10.com/#/register?code=NianBroken)
+  - [**前往灵魂云**](https://www.linghun11.com/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
