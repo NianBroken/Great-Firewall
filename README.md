@@ -33,7 +33,7 @@
 
 - ### **Teacat**
 
-  - [**前往 Teacat**](https://www.teacat4.com/#/register?code=NianBroken)
+  - [**前往 Teacat**](https://www.teacat5.com/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
