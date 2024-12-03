@@ -14,7 +14,7 @@
 
 - ### **灵魂云**
 
-  - [**前往灵魂云**](https://www.32487623796.beauty/#/register?code=NianBroken)
+  - [**前往灵魂云**](https://www.nc1rdl.tech/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
