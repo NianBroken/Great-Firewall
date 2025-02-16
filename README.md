@@ -14,7 +14,7 @@
 
 - ### **灵魂云**
 
-  - [**前往灵魂云**](https://www.nc1rdl.tech/#/register?code=NianBroken)
+  - [**前往灵魂云**](http://161.81.187.153:16666/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
@@ -33,7 +33,7 @@
 
 - ### **Teacat**
 
-  - [**前往 Teacat**](https://www.32487623796.click/#/register?code=NianBroken)
+  - [**前往 Teacat**](https://www.teacat5.com/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
