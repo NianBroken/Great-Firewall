@@ -14,7 +14,7 @@
 
 - ### **灵魂云**
 
-  - [**前往灵魂云**](http://161.81.187.153:16666/#/register?code=NianBroken)
+  - [**前往灵魂云**](http://43.100.69.187:12443/#/register?code=NianBroken)
 
   - IEPL 企业级内网专线
 
